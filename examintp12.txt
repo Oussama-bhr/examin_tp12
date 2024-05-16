@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Une parite de code source est sur la branch master
+=======
+ branch_examin_12 esst la branch de code source
+>>>>>>> branch_examin_12
